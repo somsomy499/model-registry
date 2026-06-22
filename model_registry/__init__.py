@@ -1,0 +1,1 @@
+from .registry import Registry\n__version__ = "1.0.0"\n
